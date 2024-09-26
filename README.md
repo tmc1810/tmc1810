@@ -1,5 +1,5 @@
 ## Hi there 
-![Uploading 176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif…]()
+Uploading 176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif
 
 <!--
 **tmc1810/tmc1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
