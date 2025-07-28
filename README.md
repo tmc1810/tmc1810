@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trần Mạnh Cường
 =======================================================================================================================================
 
-I'm Web Developer And Design
+I'm Web Developer
 ----------------------------
 
 I am an information technology professional with extensive experience in software development and system management. With passion and skills in areas such as programming and database administration, I always strive to find optimal solutions to improve work efficiency and maximize system performance. Additionally, I regularly update myself with new technological knowledge and participate in innovative projects to bring practical value to customers.
